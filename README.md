@@ -1,5 +1,5 @@
 ## Before Use
-Create a shortcut on your desktop. In the taret box, set it to `C:\Windows\System32\bash.exe ~ --login`.
+Create a shortcut on your desktop. In the target box, set it to `C:\Windows\System32\bash.exe ~ --login`.
 Your root directory can be found at `C:\Users\<username>\AppData\Local\lxss\rootfs`.
 Your C drive can be found at `/mnt/c`.
 You can change `.profile` at `C:\Users\<username>\AppData\Local\lxss\home\<Terminal name>\.profile`.
