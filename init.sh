@@ -1,1 +1,1 @@
-sudo apt-get install lolcat fortune sl ddate
+sudo apt-get install -y lolcat fortune sl ddate
