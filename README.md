@@ -33,4 +33,4 @@ If the colors aren't working properly when you type `ls`, put this into `.profil
 ```shell
 alias ls='ls --color=auto'
 ```
-To run `java-install.sh`, navigate the the folder where you downloaded the JDK, then run the program. The JDK can be found [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+To run `java-install.sh`, navigate the the folder where you downloaded the JDK, then run the program. The JDK can be found [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
