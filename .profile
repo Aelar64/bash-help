@@ -5,4 +5,3 @@ alias LS="sl"
 alias Sl="sl"
 alias sL="sl"
 alias SL="sl"
-/* Add these to the end of the default .profile */
