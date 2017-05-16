@@ -1,1 +1,1 @@
-sudo apt-get install -y lolcat fortune sl ddate perl
+sudo apt-get -y install lolcat fortune sl ddate perl
